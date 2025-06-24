@@ -11,7 +11,7 @@
 
 ## Требования к запуску
 
-[Python(не ниже 3.13.3)](https://www.python.org/downloads/)
+[Python](https://www.python.org/downloads/)(не ниже 3.13.3)
 А так же требуется ряд модулей `pandas, matplotlib, numpy, sv-ttk`
 
 ## Инструкция по устрановке
