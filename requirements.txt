@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+tk
+sv_ttk
+openpyxl
