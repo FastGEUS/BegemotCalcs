@@ -30,8 +30,8 @@
 ## Версии
 Все версии можно посмотреть [здесь](https://github.com/FastGEUS/BegemotCalcs/releases). На данный момент готовы: полная и [компактная](https://github.com/FastGEUS/BegemotCalcs/tree/compact-version) версии.
 
-## Установка релиз версии
-Если вы скачиваете [релиз версию](https://github.com/FastGEUS/BegemotCalcs/releases), то вам ничего не нужно устанавливать. 
+## Установка последней
+Если вы скачиваете [готовое приложение](https://github.com/FastGEUS/BegemotCalcs/releases), то вам ничего не нужно устанавливать.
 1. Вам необходимо распаковать `Begemot.exe` и `data.xlsx` в одну папку
 2. Запустить `Begemot.exe`
 
