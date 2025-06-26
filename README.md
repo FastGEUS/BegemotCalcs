@@ -1,7 +1,9 @@
 # BegemotCalcs
 
 Приложение для расчёта баллистики стрельбы из Бегемота для Squad [Global Escalation](https://steamcommunity.com/sharedfiles/filedetails/3014073690).
+
 ![image](https://github.com/user-attachments/assets/d0751bf9-b63c-49f6-8aab-94575bba1349)
+*Скриншот интерфейса приложения*
 
 ## Принцип работы программы
 
