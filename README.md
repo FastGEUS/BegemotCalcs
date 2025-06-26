@@ -27,6 +27,9 @@
 5. Запустите программу командой
    `python main.py`
 
+## Версии
+Все версии можно посмотреть [здесь](https://github.com/FastGEUS/BegemotCalcs/releases). На данный момент готовы: полная и [компактная](https://github.com/FastGEUS/BegemotCalcs/tree/compact-version) версии.
+
 ## Установка релиз версии
 Если вы скачиваете [релиз версию](https://github.com/FastGEUS/BegemotCalcs/releases/tag/v1.0), то вам ничего не нужно устанавливать. 
 1. Вам необходимо распаковать `Begemot.exe` и `data.xlsx` в одну папку
