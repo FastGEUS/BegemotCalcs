@@ -12,7 +12,7 @@
 Программа **неучитывает** разность высот и местоположение орудия на карте, так что вам придётся воспользоваться [SquadCalcs](https://squadcalc.app/?map=Belaya) для того чтобы рассчитать точное расстояние до цели. Чтобы видеть радиус актуальной дальности стрельбы советую использовать режим **Адская пушка(Hell Canon)**
 
 ## Версии
-Все версии можно посмотреть [здесь](https://github.com/FastGEUS/BegemotCalcs/releases). На данный момент готовы: полная и [компактная](https://github.com/FastGEUS/BegemotCalcs/tree/compact-version) версии.
+Все версии можно посмотреть [здесь](https://github.com/FastGEUS/BegemotCalcs/releases). На данный момент готовы: **полная**(текущая) и [компактная](https://github.com/FastGEUS/BegemotCalcs/tree/compact-version) версии.
 
 ## Инструкция по установке
 Если вы скачиваете [последнюю версию](https://github.com/FastGEUS/BegemotCalcs/releases)
