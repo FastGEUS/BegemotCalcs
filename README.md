@@ -3,6 +3,7 @@
 Приложение для расчёта баллистики стрельбы из Бегемота для Squad [Global Escalation](https://steamcommunity.com/sharedfiles/filedetails/3014073690).
 
 ![image](https://github.com/user-attachments/assets/a81f0efa-d430-4698-8c34-ffd1bb39a983)
+
 *Скриншот интерфейса приложения*
 
 ## Особенности компактной версии
