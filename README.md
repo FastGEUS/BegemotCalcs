@@ -11,27 +11,13 @@
 
 Программа **неучитывает** разность высот и местоположение орудия на карте, так что вам придётся воспользоваться [SquadCalcs](https://squadcalc.app/?map=Belaya) для того чтобы рассчитать точное расстояние до цели. Чтобы видеть радиус актуальной дальности стрельбы советую использовать режим **Адская пушка(Hell Canon)**
 
-## Требования к сборке билда
-
-[Python](https://www.python.org/downloads/)(не ниже 3.13.3)
-А так же требуется ряд модулей `pandas, numpy, matplotlib, tk, sv_ttk, openpyxl`
-
-## Инструкция по устрановке
-
-1. Скачайте архив и распакуйте его в папку
-   `Downloads/BegemotCalcs`
-3. Откройте папку в командной строке c помощью команды
-   `cd Downloads/BegemotCalcs`
-4. Установите недостающие модули командой
-   `pip install -r requirements.txt`
-5. Запустите программу командой
-   `python main.py`
-
 ## Версии
 Все версии можно посмотреть [здесь](https://github.com/FastGEUS/BegemotCalcs/releases). На данный момент готовы: полная и [компактная](https://github.com/FastGEUS/BegemotCalcs/tree/compact-version) версии.
 
-## Установка последней
-Если вы скачиваете [готовое приложение](https://github.com/FastGEUS/BegemotCalcs/releases), то вам ничего не нужно устанавливать.
+## Инструкция по установке
+Если вы скачиваете [последнюю версию](https://github.com/FastGEUS/BegemotCalcs/releases)
+![image](https://github.com/user-attachments/assets/2e823d74-80a9-4526-9bf2-ac41ef3b75cd)
+
 1. Вам необходимо распаковать `Begemot.exe` и `data.xlsx` в одну папку
 2. Запустить `Begemot.exe`
 
@@ -44,3 +30,21 @@
 3. Создание режима Overlay с прозрачным фоном.
 4. Учёт разности высот между целью и Бегемотом
 5. Подключение карт Squad и возможность выставления координат цели и Бегемота в формате `A01-5-6`
+
+Если вы хотите изучить исходный код и попробовать его запустить, то смотрите инструкцию ниже
+
+## Требования к сборке билда
+
+[Python](https://www.python.org/downloads/)(не ниже 3.13.3)
+А так же требуется ряд модулей `pandas, numpy, matplotlib, tk, sv_ttk, openpyxl`
+
+## Инструкция по установке и запуску
+
+1. Скачайте архив и распакуйте его в папку
+   `Downloads/BegemotCalcs`
+3. Откройте папку в командной строке c помощью команды
+   `cd Downloads/BegemotCalcs`
+4. Установите недостающие модули командой
+   `pip install -r requirements.txt`
+5. Запустите программу командой
+   `python main.py`
