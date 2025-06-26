@@ -16,7 +16,6 @@
 
 ## Инструкция по установке
 Если вы скачиваете [последнюю версию](https://github.com/FastGEUS/BegemotCalcs/releases)
-![image](https://github.com/user-attachments/assets/2e823d74-80a9-4526-9bf2-ac41ef3b75cd)
 
 1. Вам необходимо распаковать `Begemot.exe` и `data.xlsx` в одну папку
 2. Запустить `Begemot.exe`
